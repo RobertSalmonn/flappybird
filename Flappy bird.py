@@ -13,6 +13,7 @@ bird.penup()
 bird.goto(-200, 0)
 bird.dy=-0.0001
 #hello
+# hi this is jenny
 
 pipe_u=turtle.Turtle()
 pipe_u.shape("square")
